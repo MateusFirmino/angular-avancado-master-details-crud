@@ -46,16 +46,16 @@
             ],
             "styles": [
               "src/styles.css",
-              "C:\\dev\\mateus\\angular-finansys\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css",
-              "C:\\dev\\mateus\\angular-finansys\\node_modules\\toastr\\build\\toastr.min.css",
-              "C:\\dev\\mateus\\angular-finansys\\node_modules\\primeicons\\primeicons.css",
-              "C:\\dev\\mateus\\angular-finansys\\node_modules\\primeng\\resources\\themes\\saga-blue\\theme.css",
-              "C:\\dev\\mateus\\angular-finansys\\node_modules\\primeng\\resources\\primeng.min.css"
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/toastr/build/toastr.min.css",
+              "node_modules/primeicons/primeicons.css",
+              "node_modules/primeng/resources/themes/saga-blue/theme.css",
+              "node_modules/primeng/resources/primeng.min.css"
             ],
             "scripts": [
-              "C:\\dev\\mateus\\angular-finansys\\node_modules\\bootstrap\\dist\\js\\bootstrap.min.js",
-              "C:\\dev\\mateus\\angular-finansys\\node_modules\\chart.js\\dist\\chart.min.js",
-              "C:\\dev\\mateus\\angular-finansys\\node_modules\\jquery\\dist\\jquery.min.js"
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "node_modules/chart.js/dist/chart.min.js",
+              "node_modules/jquery/dist/jquery.min.js"
             ]
           },
           "configurations": {
